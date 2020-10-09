@@ -2,9 +2,9 @@
   "main": {
     "name":"Ivan Rezic",
     "occupation":"Data Engineer/Scientist",
-    "description":"Here you can check my resume. Feel free to reach me on social media or via contact form below.",
+    "description":"Here you can check my resume. Feel free to reach me on social media below.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, and a passion for coding. I love traveling and exploring foods. I have finished Computer Science with a master's thesis on image generation using deep learning. In my free time, I enjoy exploring new technologies and writing blogs. I have done various projects but currently, I am working on end-to-end time series prediction system for large hotel chains.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ivan.rezic1@gmail.com",
     "phone": "555-555-5555",
@@ -15,7 +15,7 @@
       "zip": "10000"
     },
     "website": "http://www.ivanrezic.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"cv.pdf",
     "social":[
       {
         "name":"facebook",
@@ -36,11 +36,6 @@
         "name":"github",
         "url":"https://github.com/ivanrezic",
         "className":"fa fa-github"
-      },
-      {
-        "name":"medium",
-        "url":"https://github.com/ivanrezic",
-        "className":"fa fa-medium"
       }
     ]
   },
